@@ -1,6 +1,6 @@
 # flu
 
-Article aggregation blog
+Article aggregation blog built with Fresh, Deno
 
 [**demo website here**](https://flu.deno.dev)
 
